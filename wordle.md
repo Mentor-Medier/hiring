@@ -26,7 +26,7 @@ Din oppgave er å lage et enkelt Wordle-spill ved hjelp av HTML, CSS og JavaScri
 - Etter at spilleren har gjettet, gi tilbakemelding om hvilke bokstaver som er riktige og på riktig sted ved å oppdatere grensesnittet.
 - Vis gjettets riktighet ved å fargekode eller på annen måte markere riktige og gale bokstaver.
 
-### Spilllogikk:
+### Spillogikk:
 
 - Implementer logikken for å sjekke om spillerens gjett er korrekt.
 - Gi spilleren beskjed om de har vunnet når de har gjettet det riktige ordet.
