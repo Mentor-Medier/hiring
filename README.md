@@ -2,6 +2,7 @@
 
 Våre ledige stillinger:
 
+- [Mentor Medier - backend-utvikler](./positions/mentor_medier_backendutvikler.md)
 - [Morgenbladet - redaksjonell utvikler](./positions/morgenbladet_redaksjonell_utvikler.md)
 - [Morgenbladet - kjerneutvikler](./positions/morgenbladet_utvikler.md)
 
