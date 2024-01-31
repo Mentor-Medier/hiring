@@ -34,13 +34,13 @@ Din oppgave er å lage et enkelt Wordle-spill ved hjelp av HTML, CSS og JavaScri
 ### Ekstra:
 
 - Legg til en begrenset antall forsøk (for eksempel 6 forsøk).
-- Gi feedback til spilleren om gjenværende forsøk.
+- Gi tilbakemelding til spilleren om gjenværende forsøk.
 
 ### Vurderinger:
 
 - Kvaliteten på koden og organiseringen.
 - Brukervennlighet av grensesnittet.
-- Effektiv implementering av spilllogikken.
+- Effektiv implementering av spillogikken.
 
 ### Leveranse
 
