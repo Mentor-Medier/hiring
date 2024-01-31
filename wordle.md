@@ -11,7 +11,7 @@ Din oppgave er å lage et enkelt Wordle-spill ved hjelp av HTML, CSS og JavaScri
 ### Ordet:
 
 - Generer et tilfeldig ord (5 bokstaver) som skal gjettes.
-- Vis det skjulte ordet som underskårne streker eller annen passende indikator i grensesnittet.
+- Vis det skjulte ordet som tomme bokser eller annen passende indikator i grensesnittet.
 
 ### Gjett Input:
 
