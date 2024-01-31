@@ -16,4 +16,5 @@ Våre ledige stillinger:
 
 #### Backend
 
-TBD
+[Oppgaveliste](./oppgaveliste.md)
+En oppgaveliste er et verktøy som lar brukere opprette, organisere og spore gjøremål, vanligvis med funksjoner som legge til, slette og merke oppgaver som fullført.
