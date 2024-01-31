@@ -35,6 +35,7 @@ Din oppgave er å lage et enkelt Wordle-spill ved hjelp av HTML, CSS og JavaScri
 
 - Legg til en begrenset antall forsøk (for eksempel 6 forsøk).
 - Gi tilbakemelding til spilleren om gjenværende forsøk.
+- Trenger ikke lage et skjermtastatur som vist i eksemplene lengre nede.
 
 ### Vurderinger:
 
