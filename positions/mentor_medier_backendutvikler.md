@@ -10,7 +10,7 @@ Du vil bli del av et lite, agilt team basert i Oslo bestående av tech, UX og pr
 
 ### Vi tror den vi ser etter har
 
-- God kjennskap til backend-utvikling hvor Node.js og Java er programmeringsspråk
+- God kjennskap til backend-utvikling hvor Javascript/Typescript i Node.js er programmeringsspråk
 - Evne til å snu seg raskt og være løsningsorientert
 - Trives med å jobbe i et miljø der ting er i stadig endring
 - Erfaring med moderne utviklingsprosesser som kontinuerlig leveranse
