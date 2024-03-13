@@ -8,7 +8,7 @@ Vi jobber etter moderne og innovative produktutviklingsprosesser, og som utvikle
 
 Du vil bli del av et lite, agilt team basert i Oslo bestående av tech, UX og product som vil jobbe tett opp mot redaksjonene og andre stakeholdere, og vil gå inn i et team med flinke fagfolk. Vi har korte beslutningslinjer og store muligheter til å være med å påvirke. Vi ønsker folk som ikke kun vil sitte alene og kode, men som også kan bruke sitt engasjement og kreativitet når vi jobber med å finne ut hva vi skal bygge og hvordan vi gjør det.
 
-### Vi tror den vi ser etter har
+### Den vi ser etter har
 
 - God kjennskap til backend-utvikling hvor Javascript/Typescript i Node.js er programmeringsspråk
 - Evne til å snu seg raskt og være løsningsorientert
@@ -18,6 +18,7 @@ Du vil bli del av et lite, agilt team basert i Oslo bestående av tech, UX og pr
 - Liker å jobbe både selvstendig og i team
 - Skriver kode med fokus på sikkerhet
 - Ønsker å være med på forme utviklingskulturen i Mentor Medier
+- Har noen års erfaring i bransjen
 
 ### Utvalg av våre teknologier
 
