@@ -32,6 +32,7 @@ Du skal lage en backend-tjeneste for en enkel oppgaveliste. Bruke Node.js med Ex
 
 - Lever koden for backend-implementeringen.
 - Inkluder instruksjoner for hvordan man kan kjøre og teste løsningen.
+- Skrive noen linjer om hva du kunne gjort bedre hadde du hatt bedre tid.
 
 ### Bonus
 
