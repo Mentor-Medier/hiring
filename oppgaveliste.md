@@ -1,6 +1,6 @@
 ## Oppgave: Implementer en enkel oppgaveliste-backend
 
-Du skal lage en backend-tjeneste for en enkel oppgaveliste. Bruke Node.js med Express eller NestJS for å løse oppgaven. Som database kan du ta i bruk SQLite.
+Du skal lage en backend-tjeneste for en enkel oppgaveliste. Bruke Node.js med Express eller NestJS for å løse oppgaven. Ta i bruk den databasen du ønsker.
 
 ### Krav:
 
