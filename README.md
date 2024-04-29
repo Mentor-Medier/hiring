@@ -2,7 +2,6 @@
 
 Våre ledige stillinger:
 
-- [Mentor Medier - backend-utvikler](./positions/mentor_medier_backendutvikler.md)
 - [Morgenbladet - kjerneutvikler](./positions/morgenbladet_utvikler.md)
 
 ## Kodeprøve
