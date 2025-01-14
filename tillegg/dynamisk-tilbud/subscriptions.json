@@ -1,0 +1,272 @@
+[
+  {
+    "user_id": 12,
+    "subscription_start_date": "2021-09-29",
+    "subscription_end_date": "2021-11-30",
+    "discount_used": true
+  },
+  {
+    "user_id": 12,
+    "subscription_start_date": "2021-12-30",
+    "subscription_end_date": "2022-05-30",
+    "discount_used": false
+  },
+  {
+    "user_id": 12,
+    "subscription_start_date": "2022-06-30",
+    "subscription_end_date": "2022-10-30",
+    "discount_used": true
+  },
+  {
+    "user_id": 19,
+    "subscription_start_date": "2022-07-15",
+    "subscription_end_date": "2022-09-15",
+    "discount_used": false
+  },
+  {
+    "user_id": 15,
+    "subscription_start_date": "2022-10-17",
+    "subscription_end_date": "2023-03-17",
+    "discount_used": true
+  },
+  {
+    "user_id": 1,
+    "subscription_start_date": "2023-01-01",
+    "subscription_end_date": null,
+    "discount_used": false
+  },
+  {
+    "user_id": 3,
+    "subscription_start_date": "2023-01-01",
+    "subscription_end_date": "2023-12-31",
+    "discount_used": false
+  },
+  {
+    "user_id": 5,
+    "subscription_start_date": "2023-01-01",
+    "subscription_end_date": "2023-06-30",
+    "discount_used": false
+  },
+  {
+    "user_id": 2,
+    "subscription_start_date": "2023-02-01",
+    "subscription_end_date": "2023-08-28",
+    "discount_used": false
+  },
+  {
+    "user_id": 19,
+    "subscription_start_date": "2023-02-16",
+    "subscription_end_date": "2023-04-16",
+    "discount_used": true
+  },
+  {
+    "user_id": 8,
+    "subscription_start_date": "2023-03-12",
+    "subscription_end_date": "2023-04-12",
+    "discount_used": false
+  },
+  {
+    "user_id": 12,
+    "subscription_start_date": "2023-03-30",
+    "subscription_end_date": null,
+    "discount_used": false
+  },
+  {
+    "user_id": 11,
+    "subscription_start_date": "2023-05-04",
+    "subscription_end_date": "2023-06-04",
+    "discount_used": false
+  },
+  {
+    "user_id": 15,
+    "subscription_start_date": "2023-06-17",
+    "subscription_end_date": "2023-10-17",
+    "discount_used": true
+  },
+  {
+    "user_id": 8,
+    "subscription_start_date": "2023-07-12",
+    "subscription_end_date": null,
+    "discount_used": true
+  },
+  {
+    "user_id": 20,
+    "subscription_start_date": "2023-07-14",
+    "subscription_end_date": "2023-08-14",
+    "discount_used": false
+  },
+  {
+    "user_id": 10,
+    "subscription_start_date": "2023-08-14",
+    "subscription_end_date": "2025-01-17",
+    "discount_used": true
+  },
+  {
+    "user_id": 19,
+    "subscription_start_date": "2023-08-16",
+    "subscription_end_date": "2023-09-16",
+    "discount_used": true
+  },
+  {
+    "user_id": 11,
+    "subscription_start_date": "2023-10-04",
+    "subscription_end_date": "2024-03-04",
+    "discount_used": true
+  },
+  {
+    "user_id": 9,
+    "subscription_start_date": "2023-10-18",
+    "subscription_end_date": "2023-11-19",
+    "discount_used": true
+  },
+  {
+    "user_id": 16,
+    "subscription_start_date": "2023-10-19",
+    "subscription_end_date": "2024-01-20",
+    "discount_used": false
+  },
+  {
+    "user_id": 6,
+    "subscription_start_date": "2023-11-14",
+    "subscription_end_date": "2024-01-14",
+    "discount_used": true
+  },
+  {
+    "user_id": 2,
+    "subscription_start_date": "2024-01-01",
+    "subscription_end_date": "2025-03-31",
+    "discount_used": false
+  },
+  {
+    "user_id": 4,
+    "subscription_start_date": "2024-01-01",
+    "subscription_end_date": "2024-03-31",
+    "discount_used": true
+  },
+  {
+    "user_id": 5,
+    "subscription_start_date": "2024-01-01",
+    "subscription_end_date": null,
+    "discount_used": true
+  },
+  {
+    "user_id": 20,
+    "subscription_start_date": "2024-01-15",
+    "subscription_end_date": "2024-06-15",
+    "discount_used": false
+  },
+  {
+    "user_id": 19,
+    "subscription_start_date": "2024-01-17",
+    "subscription_end_date": "2024-11-27",
+    "discount_used": true
+  },
+  {
+    "user_id": 14,
+    "subscription_start_date": "2024-01-24",
+    "subscription_end_date": "2024-06-24",
+    "discount_used": true
+  },
+  {
+    "user_id": 16,
+    "subscription_start_date": "2024-02-20",
+    "subscription_end_date": null,
+    "discount_used": true
+  },
+  {
+    "user_id": 17,
+    "subscription_start_date": "2024-03-01",
+    "subscription_end_date": "2024-06-30",
+    "discount_used": true
+  },
+  {
+    "user_id": 6,
+    "subscription_start_date": "2024-03-14",
+    "subscription_end_date": "2024-05-14",
+    "discount_used": true
+  },
+  {
+    "user_id": 15,
+    "subscription_start_date": "2024-03-18",
+    "subscription_end_date": "2024-04-18",
+    "discount_used": true
+  },
+  {
+    "user_id": 9,
+    "subscription_start_date": "2024-03-19",
+    "subscription_end_date": "2024-08-19",
+    "discount_used": true
+  },
+  {
+    "user_id": 4,
+    "subscription_start_date": "2024-04-01",
+    "subscription_end_date": "2024-06-30",
+    "discount_used": true
+  },
+  {
+    "user_id": 18,
+    "subscription_start_date": "2024-05-10",
+    "subscription_end_date": "2024-10-20",
+    "discount_used": false
+  },
+  {
+    "user_id": 7,
+    "subscription_start_date": "2024-06-28",
+    "subscription_end_date": null,
+    "discount_used": false
+  },
+  {
+    "user_id": 4,
+    "subscription_start_date": "2024-07-01",
+    "subscription_end_date": "2024-09-30",
+    "discount_used": true
+  },
+  {
+    "user_id": 11,
+    "subscription_start_date": "2024-07-04",
+    "subscription_end_date": null,
+    "discount_used": true
+  },
+  {
+    "user_id": 6,
+    "subscription_start_date": "2024-07-14",
+    "subscription_end_date": null,
+    "discount_used": false
+  },
+  {
+    "user_id": 20,
+    "subscription_start_date": "2024-07-15",
+    "subscription_end_date": "2025-01-28",
+    "discount_used": true
+  },
+  {
+    "user_id": 14,
+    "subscription_start_date": "2024-07-24",
+    "subscription_end_date": "2024-11-05",
+    "discount_used": false
+  },
+  {
+    "user_id": 17,
+    "subscription_start_date": "2024-08-30",
+    "subscription_end_date": null,
+    "discount_used": false
+  },
+  {
+    "user_id": 15,
+    "subscription_start_date": "2024-09-18",
+    "subscription_end_date": null,
+    "discount_used": false
+  },
+  {
+    "user_id": 9,
+    "subscription_start_date": "2024-09-19",
+    "subscription_end_date": null,
+    "discount_used": false
+  },
+  {
+    "user_id": 4,
+    "subscription_start_date": "2024-10-01",
+    "subscription_end_date": "2024-12-31",
+    "discount_used": true
+  }
+]
