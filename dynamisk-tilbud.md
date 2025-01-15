@@ -138,3 +138,8 @@ For vår del trenger du ikke å bruke mer enn maks **tre timer**. Hvis tidsbegre
 
 - Pakk sammen koden din (f.eks. i en zip-fil eller et repo på GitHub).
 - Inkluder tydelige instruksjoner for å kjøre appen lokalt.
+
+## Datafiler
+
+- [users.json](https://github.com/Mentor-Medier/hiring/blob/main/tillegg/dynamisk-tilbud/users.json)
+- [subscriptions.json](https://github.com/Mentor-Medier/hiring/blob/main/tillegg/dynamisk-tilbud/subscriptions.json)
